@@ -1,0 +1,170 @@
+body {
+	height: 2000px; 
+	margin: 0;
+	padding: 0;
+	background-color: #fafafa;
+}
+
+
+#header {
+	height: 170px;
+	width: 100%;
+    display: block;
+    position: relative;
+    padding: 20px;
+
+}
+
+
+#heading {
+	text-align: right;
+	font-size: 25px;
+	color: #333;
+	padding: 40px;
+	margin-block-start: 0em;
+    margin-block-end: 0em;
+    display: block;
+
+    
+
+}
+
+#navigation {
+	height: 50px;
+	border-bottom: 1px solid #333;
+	border-top:1px solid #333 ;
+	display: flex;
+	text-align: center;;	
+	background-color:#fff ;
+
+}
+
+.s1:hover{
+	text-decoration: underline;
+}
+div ol ul {
+	display: inline;
+	font-size: 22px;
+}
+div ol ul a {
+	text-decoration: none ;
+	color: #333;
+}
+
+.img2 {
+	position:absolute;
+	height: 100%;
+	display: block;
+	top: 0;
+	left: 0;
+}
+
+.text1 {
+	font-size: 18px;
+}
+
+#content { 
+	border: 1px solid silver;
+	background-color: #fff;
+	font-size: 18px;
+	height:  600px;
+	width: 350px;
+	margin-top: 100px;
+	margin-left: 70px;
+	margin-right: 60px;
+	padding-left: 40px;
+	padding-top:40px;
+	position: relative;
+	float: left;
+	display: block;
+	color: #333;
+	}
+
+	.contentlogo{
+		font-size: 22px;
+	}
+
+	.s2{
+		text-decoration: none;
+		color: #4f4f4f;
+	}
+	.s2:hover{
+	text-decoration: underline;
+}
+
+#preface {
+/*	border: 1px solid black ;*/
+	margin-top: 110px;
+	margin-right: 100px;
+	display: block;
+	font-size: 17px;
+	height: 600px;
+
+}
+
+	
+.picture_1 {
+	height: 400px;
+	width: 600px;
+	margin-left: 300px;
+	margin-top: 30px;
+   
+}
+
+
+}
+
+.container_1 {
+	position: relative;
+	border: 0px solid silver;
+	display: block;
+	height: 170px;
+	width: 100%;
+}
+
+.text1{
+	margin-left: 300px;
+	width: 700px;
+	display: block;
+	font-size: 18px;
+	margin-right: 300px;
+  
+}
+
+.picture_2 { 
+	height: 400px;
+	width: 600px;
+	margin-left: 300px;
+    margin-top: 10px;
+    margin-right: 400px;
+}
+.text2 {
+	margin-left: 300px;
+	width: 700px;
+	font-size: 18px;
+	margin-right: 300px;
+    
+}
+.text4 {
+	margin-left: 300px;
+	width: 700px;
+	font-size: 18px;
+	margin-right: 300px;
+	margin-top:170px;
+    
+}
+
+
+#footer {
+	height: 170px;
+	width: 100%;
+    display: block;
+    position: relative;
+    border-top: solid 1px #333;
+    margin-top: 70px;
+    background-color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+
